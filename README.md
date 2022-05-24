@@ -1,4 +1,4 @@
-# AIH--Brin-Tumor
+# AIH--Brain-Tumor
 Artificial Intelligence in Healthcare - Brain Tumor Detection (Eplanation-Images-Resourses-Miniprojects...)
 
 **Data source: https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation**
